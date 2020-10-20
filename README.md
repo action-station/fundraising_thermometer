@@ -1,3 +1,5 @@
 # Fundraising Thermometer
 
-run with `yarn localserver`, then visit http://localhost:9000
+- run `yarn`
+- run `yarn localserver`
+- visit http://localhost:9000
